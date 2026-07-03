@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Null & Void", "Null", [255, 170, 111], "senpaiback", "Fluffyhairs"],
+		["CHKDSK", "spiritback", [255, 170, 111], "spirit", "Dazuko, LiterallyNoOne"],
+		["Bloodlust", "momCorrupt", [255, 170, 155], "momCorrupt", "Leebert"],
+		["ACCESS DENIED", "Null", [0, 255, 0], "senpaiaccess", "Gryscl"]
+	],
+	
+	"section": "corruption",
+	
+	"storyName": "Return Null",
+	"weekBefore": "week B",
+	"weekName": "Week C",
+	
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"hideFreeplay": false,
+	"currency": "cubes",
+	
+	"node": {
+		"parent": "weekB",
+		"direction": "north"
+	}
+}

@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				6,
+				0
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SenpaiIdle"
+		},
+		{
+			"offsets": [
+				5,
+				37
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SenpaiUp"
+		},
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SenpaiLeft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SenpaiRight"
+		},
+		{
+			"offsets": [
+				14,
+				0
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SenpaiDown"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/return null/senpai/senpaiback2",
+	"position": [
+		570,
+		300
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "icon-null",
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": false,
+	"healthbar_colour": -21905,
+	"camera_position": [
+		-400,
+		10
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 4,
+	"scale": 9,
+	"_editor_isPlayer": false
+}
