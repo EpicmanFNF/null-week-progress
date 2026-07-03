@@ -1,0 +1,166 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spiritbackglitched"
+					]
+				]
+			],
+			[
+				4800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"no-opponent (chkdsk)"
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spiritbackglitched"
+					]
+				]
+			],
+			[
+				21600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spiritback"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfpixeldive"
+					]
+				]
+			],
+			[
+				74400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"no-bf (chkdsk)"
+					],
+					[
+						"Change Character",
+						"dad",
+						"no-opponent (chkdsk)"
+					]
+				]
+			],
+			[
+				93675,
+				[
+					[
+						"Change Character",
+						"bf",
+						"frontfacingbf"
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spiritsadsmall"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bfpixeldive"
+					],
+					[
+						"Change Character",
+						"dad",
+						"spiritsad"
+					]
+				]
+			],
+			[
+				138000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"no-opponent (chkdsk)"
+					],
+					[
+						"Change Character",
+						"bf",
+						"no-bf (chkdsk)"
+					]
+				]
+			],
+			[
+				139200,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bfpixeldive"
+					],
+					[
+						"Change Character",
+						"dad",
+						"spiritback"
+					]
+				]
+			],
+			[
+				163200,
+				[
+					[
+						"Change Character",
+						"bf",
+						"chkdskbf"
+					],
+					[
+						"Change Character",
+						"dad",
+						"spiritbackglitched"
+					]
+				]
+			],
+			[
+				182400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"no-bf (chkdsk)"
+					]
+				]
+			],
+			[
+				182550,
+				[
+					[
+						"Change Character",
+						"dad",
+						"no-opponent (chkdsk)"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,206 @@
+{
+	"song": {
+		"events": [
+			[
+				4800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpaiaccess"
+					]
+				]
+			],
+			[
+				10350,
+				[
+					[
+						"Change Character",
+						"bf",
+						"accessbf"
+					]
+				]
+			],
+			[
+				33600,
+				[
+					[
+						"Change Character",
+						"bf",
+						"no-bf (access)"
+					],
+					[
+						"Change Character",
+						"dad",
+						"no-opponent (access)"
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpaiaccess"
+					],
+					[
+						"Change Character",
+						"bf",
+						"accessbf"
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"greyspirit"
+					],
+					[
+						"Change Character",
+						"bf",
+						"no-bf (null)"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"accessbf"
+					],
+					[
+						"Change Character",
+						"dad",
+						"senpaiaccess"
+					]
+				]
+			],
+			[
+				91200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"no-opponent (access)"
+					],
+					[
+						"Change Character",
+						"bf",
+						"no-bf (access)"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Change Character",
+						"bf",
+						"pixelbfaccess"
+					],
+					[
+						"Change Character",
+						"gf",
+						"pixelgfaccess"
+					],
+					[
+						"Change Character",
+						"dad",
+						"senpaiuncorrupted"
+					]
+				]
+			],
+			[
+				127200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"worriedsenpaiaccess"
+					],
+					[
+						"Change Character",
+						"gf",
+						"no-gf"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfglitchaccess"
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"frontglitchbf"
+					],
+					[
+						"Change Character",
+						"dad",
+						"scaredsenpai"
+					]
+				]
+			],
+			[
+				170400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"worriedspirit"
+					]
+				]
+			],
+			[
+				187800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"scaredsenpai"
+					]
+				]
+			],
+			[
+				193125,
+				[
+					[
+						"Change Character",
+						"dad",
+						"no-opponent (access)"
+					],
+					[
+						"Change Character",
+						"bf",
+						"no-bf (access)"
+					]
+				]
+			],
+			[
+				197025,
+				[
+					[
+						"Change Character",
+						"bf",
+						"accessbf"
+					],
+					[
+						"Change Character",
+						"dad",
+						"senpaiannoyed"
+					]
+				]
+			]
+		]
+	}
+}
