@@ -2,7 +2,7 @@ changelog
 
 3/JUL/2026
 	+added all 'null and void' assets
-	+added week C charts
+	+added week C songs (chart only)
 		updated: data, images, songs, stages, videos
 4/JUL/2026
 	+added changelog.txt
