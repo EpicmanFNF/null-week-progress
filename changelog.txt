@@ -8,5 +8,6 @@ changelog
 	+added changelog.txt
 	+added week A stages
 	+added updated week A songs that include the stages
+		~fixed some missing and stray notes in 'spookeez remix'
 	+added 'spooky' folder (week A assets) to images/stages/
 		updated: songs, stages, sounds, images/stages/
