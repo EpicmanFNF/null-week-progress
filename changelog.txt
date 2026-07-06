@@ -4,6 +4,7 @@ changelog
 	+added all 'null and void' assets
 	+added week C songs (chart only, no stages)
 		#UPDATED: data, images, songs, stages, videos
+
 4/JUL/2026
 	+added changelog.txt
 	+added week A stages
@@ -11,4 +12,9 @@ changelog
 		~fixed some missing and stray notes in 'spookeez remix'
     +added 'sounds' folder
     +added 'spooky' folder (week A assets) to images/stages/
-	#UPDATED: songs, stages, sounds, images/stages/
+		#UPDATED: songs, stages, sounds, images/stages/
+
+5/JUL/2026
+	+added roots stage
+	+added updated characters with fixed camera position ('spirit-crazy','bfGlitch')
+		#UPDATED: stages, data/characters
