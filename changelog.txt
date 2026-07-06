@@ -16,5 +16,5 @@ changelog
 
 5/JUL/2026
 	+added roots stage
-	+added updated characters with fixed camera position ('spirit-crazy','bfGlitch','infectedbf')
+	+added updated characters with fixed camera position ('spirit-crazy','bfGlitch')
 		#UPDATED: stages, data/characters
