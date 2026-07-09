@@ -8,8 +8,8 @@ function onLoad()
 	school.updateHitbox();
 	school.animation.play('idle');
 	school.scrollFactor.set(0.8, 0.9);
-    	school.x = -40;
-    	school.y = 80;
+    	school.x = 450;
+    	school.y = 250;
 	school.scale.set(6, 6);
 	add(school);
 }
