@@ -19,7 +19,7 @@ changelog
 	+added updated characters with fixed camera position ('spirit-crazy','bfGlitch')
 		#UPDATED: stages, data/characters
 
-9/JUL/2026
+10/JUL/2026
 	+added dead pixel stage
 	+added treachous thorns stage
 	~updated roots stage
