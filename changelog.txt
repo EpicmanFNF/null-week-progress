@@ -30,7 +30,7 @@ changelog
 	~fixed treacherous thorns stage using the wrong assets
 	~small changes to dead pixel stage
 	~updated images/stages/treacherous-thorns with the right assets
-	+added 'senapai-remix' folder to images/stages/
+	+added 'senpai-remix' folder to images/stages/
 		#UPDATED: stages, images/stages/treacherous-thorns, images/stages/
 
 
