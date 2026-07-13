@@ -23,4 +23,15 @@ changelog
 	+added dead pixel and treachous thorns stages
 	~updated roots stage
 	~updated characters with fixed positions ('spirit-crazy', 'bfGlitch', 'neutralspirit')
-		#UPDATED: stages, data/characters
+		#UPDATED: stages, data/characters/
+
+13/JUL/2026
+	+added senpai remix stage
+	~fixed treacherous thorns stage using the wrong assets
+	~small changes to dead pixel stage
+	~updated images/stages/treacherous-thorns with the right assets
+	+added 'senapai-remix' foldder to images/stages/
+		#UPDATED: stages, images/stages/treacherous-thorns, images/stages/
+
+
+
