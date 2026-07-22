@@ -37,9 +37,11 @@ changelog
 	+added spiritback, spirit sad, bf-pixel-dive
 		+added asssets for those characters
 	+added updated modchart to the songs/chkdsk/  folder
+	+added events on songs/chkdsk/data
 	+added chkdsk stage
 	+added chkdsk folder with the stage asssets
 	+added the chkdsk videos
+	
 		#UPDATED: songs/chkdsk, data/characters, images/characters/return-null/[bf, spirit], stages, images/stages,
 
 	
