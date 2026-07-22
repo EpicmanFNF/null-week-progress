@@ -33,5 +33,14 @@ changelog
 	+added 'senpai-remix' folder to images/stages/
 		#UPDATED: stages, images/stages/treacherous-thorns, images/stages/
 
+22/JUL/2026
+	+added spiritback, spirit sad, bf-pixel-dive
+		+added asssets for those characters
+	+added updated modchart to the songs/chkdsk/  folder
+	+added chkdsk stage
+	+added chkdsk folder with the stage asssets
+	+added the chkdsk videos
+		#UPDATED: songs/chkdsk, data/characters, images/characters/return-null/[bf, spirit], stages, images/stages,
 
+	
 
